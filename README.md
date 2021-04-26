@@ -8,11 +8,12 @@
 
 - 📫 How to reach me **anchalgupta.9867@gmail.com**
 
-- <h3 align="left">Connect with me:</h3>
+
+<h3 align="left">Connect with me:</h3>
  
--  ● [Linkedin](https://www.linkedin.com/in/anchal15/ "Anchal Gupta") 
+ ● [Linkedin](https://www.linkedin.com/in/anchal15/ "Anchal Gupta") 
  
--  ● [GitHub](https://github.com/Anchal1508/ "Anchal Gupta") 
+ ● [GitHub](https://github.com/Anchal1508/ "Anchal Gupta") 
 
 
 ##### A little more about me...  

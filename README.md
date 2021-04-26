@@ -19,7 +19,7 @@
 ##### A little more about me...  
 
  ```javascript
-const Annu = {
+const Anchal = {
   Pronouns: "she" | "her",
   Description : [Passionate, Leadership, 
                 Obidient, Problem solver, Tech enthusiast  

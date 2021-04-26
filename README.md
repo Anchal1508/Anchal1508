@@ -9,11 +9,11 @@
 - 📫 How to reach me **anchalgupta.9867@gmail.com**
 
 
-<h3 align="left">Connect with me:</h3>
+ <h3 align="left">Connect with me:</h3>
  
- ● [Linkedin](https://www.linkedin.com/in/anchal15/ "Anchal Gupta") 
+  ● [Linkedin](https://www.linkedin.com/in/anchal15/ "Anchal Gupta") 
  
- ● [GitHub](https://github.com/Anchal1508/ "Anchal Gupta") 
+  ● [GitHub](https://github.com/Anchal1508/ "Anchal Gupta") 
 
 
 ##### A little more about me...  
@@ -34,14 +34,14 @@ const Anchal = {
 }
 ```
 
-- <h3 align="left">💻 Technologies I Love to Work on</h3>
+<h3 align="left">💻 Technologies I Love to Work on</h3>
 
-- ● **Programming :** MySQL, Machine Learning, Python (Pandas, scikit-learn, 
+● **Programming :** MySQL, Machine Learning, Python (Pandas, scikit-learn, 
 Numpy), Flask, Web Scrapping, OOPS, Database
 
-- ● **Modeling :** Regression, Classification, Clustering, PCA 
+● **Modeling :** Regression, Classification, Clustering, PCA 
 
-- ● **Data Visualization :** Excel, Google Sheets, Matplotlib, Seaborn, Jupiter
+● **Data Visualization :** Excel, Google Sheets, Matplotlib, Seaborn, Jupiter
 Notebook
 
 <h3 align="left">Languages and Tools:</h3>
